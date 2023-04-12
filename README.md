@@ -3,29 +3,29 @@ MF-Terminal or Multi Functionality Terminal is a tool terminal with a lot of com
 
 # Commands
 <pre>
---github         Open github website\
---youtube        Open youtube website\
---google         Open google on the browser\
---facebook       Open facebook website\
---gmail          Open gmail website\
---mf             Open MF-Terminal source website\
---cdefault       Set text color to white\
---cred           Set text color to red\
---cblue          Set text color to blue\
---cgreen         Set text color to green\
---caqua          Set text color to aqua\
---cpurple        Set text color to purple\
---main           Display the main view\
---date           Add to the main view the current date\
---cls            Clear the terminal\
---exit           Exit terminal\
---version        Display the current version\
---changelog      Display version change log\
---temp           Clean temp folder\
---rand           Generate a random string of characters\
---pass           Generate a strong password\
---vs             Open VS Code if it's installed\
---sd             Shut down the pc\
+--github         Open github website
+--youtube        Open youtube website
+--google         Open google on the browser
+--facebook       Open facebook website
+--gmail          Open gmail website
+--mf             Open MF-Terminal source website
+--cdefault       Set text color to white
+--cred           Set text color to red
+--cblue          Set text color to blue
+--cgreen         Set text color to green
+--caqua          Set text color to aqua
+--cpurple        Set text color to purple
+--main           Display the main view
+--date           Add to the main view the current date
+--cls            Clear the terminal
+--exit           Exit terminal
+--version        Display the current version
+--changelog      Display version change log
+--temp           Clean temp folder
+--rand           Generate a random string of characters
+--pass           Generate a strong password
+--vs             Open VS Code if it's installed
+--sd             Shut down the pc
 --rs             Restart the pc
 </pre>
 # Data config
