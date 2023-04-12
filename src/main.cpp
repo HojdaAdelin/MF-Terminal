@@ -61,6 +61,10 @@ int main() {
         restart();
     } else if (ch == "--cdefault") {
         white();
+    } else if (ch == "--rand") {
+        random();
+    } else if (ch == "--pass") {
+        password();
     } else {
         cout << "\nWrong termen\n";
         main();

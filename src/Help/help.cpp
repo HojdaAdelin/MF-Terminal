@@ -31,6 +31,8 @@ void help() {
     cout << "--changelog      Display version change log" << endl;
     cout << "\nFUNCTIONALITY COMMANDS" << endl;
     cout << "--temp           Clean temp folder" << endl;
+    cout << "--rand           Generate a random string of characters" << endl;
+    cout << "--pass           Generate a strong password" << endl;
     cout << "--vs             Open VS Code if it's installed" << endl;
     cout << "--sd             Shut down the pc" << endl;
     cout << "--rs             Restart the pc" << endl;

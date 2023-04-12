@@ -17,3 +17,5 @@ void TempExecutable();
 void vs();
 void shut_down();
 void restart();
+void random();
+void password();
