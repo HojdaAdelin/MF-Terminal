@@ -27,6 +27,7 @@ void help() {
     cout << "\nAPP COMMANDS" << endl;
     cout << "--exit           Exit terminal" << endl;
     cout << "--version        Display the current version" << endl;
+    cout << "--changelog      Display version change log" << endl;
     cout << "\nFUNCTIONALITY COMMANDS" << endl;
     cout << "--temp           Clean temp folder" << endl;
     cout << "--vs             Open VS Code if it's installed" << endl;

@@ -43,5 +43,24 @@ int main() {
         main();
     } else if (ch == "--date") {
         date();
+    } else if (ch == "--cls") {
+        clear();
+    } else if (ch == "--exit") {
+        app_exit();
+    } else if (ch == "--version") {
+        version();
+    } else if (ch == "--changelog") {
+        changelog();
+    } else if (ch == "--temp") {
+        TempExecutable();
+    } else if (ch == "--vs") {
+        vs();
+    } else if (ch == "--sd") {
+        shut_down();
+    } else if (ch == "--rs") {
+        restart();
+    } else {
+        cout << "\nWrong termen\n";
+        main();
     }
 }
