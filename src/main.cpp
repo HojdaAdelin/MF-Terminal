@@ -59,6 +59,8 @@ int main() {
         shut_down();
     } else if (ch == "--rs") {
         restart();
+    } else if (ch == "--cdefault") {
+        white();
     } else {
         cout << "\nWrong termen\n";
         main();

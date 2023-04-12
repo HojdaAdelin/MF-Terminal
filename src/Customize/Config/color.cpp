@@ -47,7 +47,13 @@ void purple() {
     main();
 }
 
-
+void white() {
+  system("Color 07");
+  color = "white";
+  write_color();
+  cout << endl;
+  main();
+}
 
 void write_color() {
 
@@ -79,6 +85,8 @@ void load_color() {
         system("Color 03");
     } else if (color_config == "purple") {
         system("Color 05");
+    } else if (color_config == "white") {
+        system("Color 07");
     }
 
 }

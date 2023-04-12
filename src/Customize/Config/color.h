@@ -7,3 +7,4 @@ void green();
 void aqua();
 void purple();
 void load_color();
+void white();

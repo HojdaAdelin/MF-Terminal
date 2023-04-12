@@ -15,6 +15,7 @@ void help() {
     cout << "--gmail          Open gmail website" << endl;
     cout << "--mf             Open MF-Terminal source website" << endl;
     cout << "\nCUSTOMIZE COMMANDS" << endl;
+    cout << "--cdefault       Set text color to white" << endl;
     cout << "--cred           Set text color to red" << endl;
     cout << "--cblue          Set text color to blue" << endl;
     cout << "--cgreen         Set text color to green" << endl;
