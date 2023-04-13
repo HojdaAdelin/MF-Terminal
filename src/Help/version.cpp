@@ -11,7 +11,7 @@ void version() {
 
 void changelog() {
   
-  cout << "\n-Added all the functions\n-Color config\n\n";
+  cout << "\n-Password generator\n-Default color\n-String generator\n\n";
   main();
   
 }
