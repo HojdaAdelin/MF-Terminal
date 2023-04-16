@@ -65,6 +65,10 @@ int main() {
         random();
     } else if (ch == "--pass") {
         password();
+    } else if (ch == "--spass") {
+        save_password();
+    } else if (ch == "--dpass") {
+        display_password();
     } else {
         cout << "\nWrong termen\n";
         main();

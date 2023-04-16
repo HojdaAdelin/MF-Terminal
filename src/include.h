@@ -19,3 +19,5 @@ void shut_down();
 void restart();
 void random();
 void password();
+void save_password();
+void display_password();

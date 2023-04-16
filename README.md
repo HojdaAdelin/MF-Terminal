@@ -24,6 +24,8 @@ MF-Terminal or Multi Functionality Terminal is a tool terminal with a lot of com
 --temp           Clean temp folder
 --rand           Generate a random string of characters
 --pass           Generate a strong password
+--spass          Save generated password
+--dpass          Display saved password
 --vs             Open VS Code if it's installed
 --sd             Shut down the pc
 --rs             Restart the pc

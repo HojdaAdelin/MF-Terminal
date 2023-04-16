@@ -33,6 +33,8 @@ void help() {
     cout << "--temp           Clean temp folder" << endl;
     cout << "--rand           Generate a random string of characters" << endl;
     cout << "--pass           Generate a strong password" << endl;
+    cout << "--spass          Save generated password" << endl;
+    cout << "--dpass          Display saved password" << endl;
     cout << "--vs             Open VS Code if it's installed" << endl;
     cout << "--sd             Shut down the pc" << endl;
     cout << "--rs             Restart the pc" << endl;
