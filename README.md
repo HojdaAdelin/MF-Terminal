@@ -45,3 +45,8 @@ Behind this command are: Path to temp, Deletion specific files & directory, skip
 
 The first 6 commands open different link on the default browser.\
 This concept work based on system atribute.
+
+# Password saver
+
+--spass command save the generated password and it's work along with fstream library.\
+--dpass command display the saved password.
