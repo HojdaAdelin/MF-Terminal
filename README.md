@@ -32,6 +32,15 @@ MF-Terminal or Multi Functionality Terminal is a tool terminal with a lot of com
 --sd             Shut down the pc
 --rs             Restart the pc
 </pre>
+
+# G++ guide
+
+This project is builded by g++ tool in VS Code.
+
+Learn more:\
+[G++ guide](https://code.visualstudio.com/docs/cpp/config-mingw)\
+[VS Code](https://code.visualstudio.com/)
+
 # Data config
 
 In this project I decide to implement the same concept implemented in [Eleven Terminal](https://github.com/HojdaAdelin/Eleven-Terminal) which is color config.\
@@ -47,3 +56,8 @@ Behind this command are: Path to temp, Deletion specific files & directory, skip
 
 The first 6 commands open different link on the default browser.\
 This concept work based on system atribute.
+
+# Password saver
+
+--spass command save the generated password and it's work along with fstream library.\
+--dpass command display the saved password.
