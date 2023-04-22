@@ -35,6 +35,8 @@ void help() {
     cout << "--pass           Generate a strong password" << endl;
     cout << "--spass          Save generated password" << endl;
     cout << "--dpass          Display saved password" << endl;
+    cout << "--dev            Suggest best command for developers" << endl;
+    cout << "--code           Open MF-Terminal code" << endl;
     cout << "--vs             Open VS Code if it's installed" << endl;
     cout << "--sd             Shut down the pc" << endl;
     cout << "--rs             Restart the pc" << endl;

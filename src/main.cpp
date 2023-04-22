@@ -69,6 +69,10 @@ int main() {
         save_password();
     } else if (ch == "--dpass") {
         display_password();
+    } else if (ch == "--dev") {
+        dev();
+    } else if (ch == "--code") {
+        code();
     } else {
         cout << "\nWrong termen\n";
         main();

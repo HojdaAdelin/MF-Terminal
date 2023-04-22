@@ -5,13 +5,13 @@ using namespace std;
 
 void version() {
   
-  cout << "\nVersion: 1.0\n\n";
+  cout << "\nVersion: 1.1\n\n";
   main();
 }
 
 void changelog() {
   
-  cout << "\n-Password generator\n-Default color\n-String generator\n\n";
+  cout << "\n-dev command\n-code command\n\n";
   main();
   
 }

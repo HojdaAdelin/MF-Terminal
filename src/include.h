@@ -21,3 +21,5 @@ void random();
 void password();
 void save_password();
 void display_password();
+void dev();
+void code();
